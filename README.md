@@ -26,3 +26,5 @@ So basiscally, this company has an S3 bucket in which a client puts his/her file
 ![image](https://user-images.githubusercontent.com/115881685/231750134-fc41c6dd-a62b-42fc-ab39-179a9cd91895.png)
 
 ![image](https://user-images.githubusercontent.com/115881685/231750374-40b29e40-6bf5-4ee6-ba5b-1c9149db9be4.png)
+
+![image](https://user-images.githubusercontent.com/115881685/231750823-9a779867-c792-4b79-98a8-ec3d6135e5af.png)
