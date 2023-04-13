@@ -12,7 +12,7 @@ Write a lambda script to trigger when a file lands in an S3 bucket, and move it 
 So basiscally, this company has an S3 bucket in which a client puts his/her files. The lamda script we will write will create a folder in the S3 bucket that is named year, month and day(YYYYMMDD) and the script will organize the files the customer is putting into the S3 bucket into the folder based on the day the customer put the files in the S3 bucket.
 
 
-### Screenshots of some of the activities engaged in the course of completing the project.
+### Screenshots of some of the activities engaged in, in the course of completing the project.
 
 
 
